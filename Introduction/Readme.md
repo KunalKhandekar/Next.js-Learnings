@@ -89,18 +89,18 @@
 
 ## 📌 React.js vs Next.js
 
-React.js
-    -> A JavaScript library for building UI components.
-    -> Handles only the view layer of an app (frontend).
-    -> Uses client-side rendering (CSR) by default.
-    -> Requires extra tools (e.g., React Router, Redux, Webpack, Vite) for routing, state management, and optimizations.
-    -> SEO is harder because pages render on the client.
-    -> Great for single-page applications (SPAs).
+    React.js
+        -> A JavaScript library for building UI components.
+        -> Handles only the view layer of an app (frontend).
+        -> Uses client-side rendering (CSR) by default.
+        -> Requires extra tools (e.g., React Router, Redux, Webpack, Vite) for routing, state management, and optimizations.
+        -> SEO is harder because pages render on the client.
+        -> Great for single-page applications (SPAs).
 
-Next.js
-    -> A full-stack React framework built on top of React.
-    -> Provides file-based routing out of the box.
-    -> Supports multiple rendering modes: SSR, SSG, ISR, CSR.
-    -> Has built-in features: API routes, Image optimization, Fonts, Middleware, Edge runtime.
-    -> SEO-friendly due to server-side and static rendering.
-    -> Great for production-ready apps like blogs, e-commerce, and SaaS.
+    Next.js
+        -> A full-stack React framework built on top of React.
+        -> Provides file-based routing out of the box.
+        -> Supports multiple rendering modes: SSR, SSG, ISR, CSR.
+        -> Has built-in features: API routes, Image optimization, Fonts, Middleware, Edge runtime.
+        -> SEO-friendly due to server-side and static rendering.
+        -> Great for production-ready apps like blogs, e-commerce, and SaaS.
